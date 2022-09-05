@@ -25,6 +25,6 @@
 - /checkin = admin memasukkan id pesanan, lalu akan dilakukan pengecekkan
   -jika tiket belum dipakai akan redirect ke /tiketvalid dan status tiket akan berubah menjadi sudah terpakai agai tidak bisa digunakan untuk 2x pemakaian tiket
   -jika tiket sudah pernah dipakai akan muncul alert tiket sudah terpakai
-  -jika id tiket tidak terdaftar akan muncul error id tiket tidak terdaftar
+  -jika id tiket tidak terdaftar akan muncul error id tiket tidak terdaftar  (Masih Proses)
 - /laporanuser = berisi table dengan data user yang sudah checkin dan belum checkin
 - logout pada navbar untuk logout
